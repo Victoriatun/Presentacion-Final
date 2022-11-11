@@ -1,0 +1,121 @@
+.What{
+    margin-left: 49%;
+    padding-top: 8%;
+    font-size: 2.5rem;
+
+ }
+
+
+
+.bloques .bloque1{
+    width: 18%;
+    height: 30rem;
+    margin-left: 19%;
+    background-color: var(--color1);
+}
+
+.titulo1 {
+    padding-top: 14%;
+    margin: 7%;
+   font-size: 3rem;
+   font-weight: 500;
+   color: var(--color2);
+}
+
+.c{
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: var(--color2);
+ }
+
+ .read{
+    font-size: 1.5rem;
+    margin-left: 8.5%;
+   padding-top: 10%;
+   font-weight: 700;
+   color: var(--color2);
+ }
+
+ .flecha2{
+    margin-left: 45%;
+    width: 15%;
+ }
+
+ .bloques .bloque2{
+    width: 18%;
+    height: 30rem;
+    margin-left: 5%;
+    background-color: var(--color3);
+}
+
+.titulo2 {
+    padding-top: 14%;
+    margin: 7%;
+   font-size: 3rem;
+   font-weight: 500;
+   color: var(--color1);
+}
+
+.d{
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: var(--color1);
+ }
+
+ .read2{
+    font-size: 1.5rem;
+    margin-left: 8.5%;
+   padding-top: 10%;
+   font-weight: 700;
+   color: var(--color1);
+ }
+
+ .flecha3{
+    margin-left: 45%;
+    width: 15%;
+ }
+
+ .bloques .bloque3{
+    width: 18%;
+    height: 30rem;
+    margin-left: 4%;
+    background-color: var(--color3);
+}
+
+.titulo3 {
+    padding-top: 14%;
+    margin: 7%;
+   font-size: 3rem;
+   font-weight: 500;
+   color: var(--color1);
+}
+
+.e{
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: var(--color1);
+ }
+
+ .read3{
+    font-size: 1.5rem;
+    margin-left: 8.5%;
+   padding-top: 10%;
+   font-weight: 700;
+   color: var(--color1);
+ }
+
+ .flecha4{
+    margin-left: 45%;
+    width: 15%;
+ }
+
+ .bloques{
+    margin-top: 5rem;
+    display: flex;
+ }
+
+ .puntos{
+    width: 15%;
+    padding: 3%;
+    margin-left: 45%;
+ }

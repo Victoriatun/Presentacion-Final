@@ -1,0 +1,44 @@
+header{
+    width: 100%;
+    padding:1rem 0rem ;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.logo{
+    width: 15%;
+    height: 15%;
+    margin-left: 16.5%;
+}
+
+.lupa{
+    width: 2%;
+    height: 2%;
+}
+
+.rayas{
+    width: 3%;
+    height: 3%;
+}
+
+.menu{
+    width: 100%;
+    list-style: none;
+    margin-top: 1rem;
+
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
+
+.menu li{
+    font-size: 1.8rem;
+    font-weight:  500;
+    padding: 1rem 2rem;
+    margin-left: 26.5%;
+    color: var(--color1)
+}

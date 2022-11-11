@@ -1,0 +1,64 @@
+.banner{
+    padding-top: 6%;
+    margin-left: 18.5%;
+    width: 65%;
+    height: 55rem;
+    background-position: center;
+
+    position: relative;
+
+}
+
+
+.banner .contenido_banner{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:150px;
+    left: 0;
+    padding: 2rem;
+}
+
+.contenido_banner span, h1, p {
+    color: var(--color4);
+    margin-top: 1.5rem;
+}
+
+.contenido_banner span{
+    margin-left: 47%;
+    font-size: 2rem;
+    color: var(--color2);
+}
+
+.contenido_banner h1 {
+    margin-left: 37%;
+   font-size: 4.5rem;
+   font-weight: 500;
+   color: var(--color2);
+}
+
+ 
+ .hello {
+    width: 100%;
+    right: 20%;
+ }
+
+ .h{
+    padding-block-end: 1%;
+    margin-left: 17%;
+    width: 17%;
+   background-color: var(--color2);
+ }
+
+ .contact{
+    padding-top: 10%;
+    font-size: 2rem;
+    margin-left: 20%;
+    color: var(--color1);
+ }
+
+ .icono2{
+    padding-top: 7%;
+    width: 45%;
+    margin-left: 30%;
+ }

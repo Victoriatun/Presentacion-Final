@@ -1,0 +1,124 @@
+.mi_blog{
+    margin-left: 49%;
+    padding-top: 3%;
+    font-size: 2.5rem;
+
+ }
+
+.My_blog{
+    padding-top: 3%;
+   display: flex;
+}
+
+
+.My_blog .bloques1{
+    width: 17.4%;
+    height: 40rem;
+    margin-left: 19%;
+    background-color: var(--color1);
+}
+
+.titulos1 {
+   font-size: 1rem;
+   font-weight: 300;
+   color: var(--color2);
+}
+
+.cc{
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: var(--color2);
+ }
+
+ .reads1{
+    font-size: 1rem;
+    margin-left: 5%;
+   padding-top: 10%;
+   font-weight: 400;
+   color: var(--color2);
+ }
+
+ .flechas2{
+    margin-left: 45%;
+    width: 15%;
+ }
+
+ .My_blog .bloques2{
+    width: 17.4%;
+    height: 40rem;
+    margin-left: 6%;
+    background-color: var(--color1);
+}
+
+.titulos2 {
+   font-size: 1rem;
+   font-weight: 300;
+   color: var(--color2);
+}
+
+.ee{
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: var(--color2);
+ }
+
+ .reads2{
+    font-size: 1rem;
+    margin-left: 5%;
+   padding-top: 10%;
+   font-weight: 400;
+   color: var(--color2);
+ }
+
+ .My_blog{
+    display: flex;
+ }
+ 
+ 
+ .My_blog .bloques3{
+     width: 17.4%;
+     height: 40rem;
+     margin-left: 6%;
+     background-color: var(--color1);
+ }
+ 
+ .titulos3 {
+    font-size: 1rem;
+    font-weight: 300;
+    color: var(--color2);
+ }
+ 
+ .ff{
+     font-size: 1.7rem;
+     font-weight: 400;
+     color: var(--color2);
+  }
+ 
+  .reads3{
+     font-size: 1rem;
+     margin-left: 5%;
+    padding-top: 10%;
+    font-weight: 400;
+    color: var(--color2);
+  }
+ 
+  .flechas2{
+     margin-left: 45%;
+     width: 15%;
+  }
+
+  .Twiter{
+    width: 26.5rem;
+ }
+
+ .botella{
+    width: 26.5rem;
+    right: 2rem;
+ }
+
+ .Hire{
+    padding-top: 5%;
+    margin-left: 20%;
+    width: 99rem;
+    right: 2rem;
+ }

@@ -1,0 +1,32 @@
+.portafolio{
+    margin-left: 49%;
+    padding-top: 8%;
+    font-size: 2.5rem;
+
+ }
+
+.menu2{
+    padding-top: 2%;
+    width: 50%;
+    right: 1%;
+    list-style: none;
+    margin-top: 1rem;
+
+    display: flex;
+    flex-wrap: wrap ;
+    margin-left: 38%;
+}
+
+.menu2 li{
+    font-size: 1.6rem;
+    font-weight:  normal;
+    padding: 1rem 1rem;
+    color: var(--color1)
+
+}
+
+.porta{
+    margin-left: 17%;
+    width: 66.5%;
+    right: 12%;
+}
